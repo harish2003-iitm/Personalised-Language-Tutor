@@ -5,7 +5,7 @@ The **Personalized Language Tutor** leverages OpenAI's cutting-edge APIs to deli
 
 ![Screen-1](images/Screenshot%202024-12-07%20201838.png)
 
-![Screen-2]("C:\Users\G K HARISH BALAJI\OneDrive - smail.iitm.ac.in\Pictures\Screenshots\Screenshot 2024-12-07 201852.png")
+![Screen-2]("images/Screenshot%2024-12-07%201852.png")
 
 ---
 
