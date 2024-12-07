@@ -1,11 +1,12 @@
 # **Personalized Language Tutor**
 
 ## **Overview**
+
 The **Personalized Language Tutor** leverages OpenAI's cutting-edge APIs to deliver AI-enhanced tools for seamless transcription, translation, grammar checking, and pronunciation feedback. Designed for language learners, this tool provides an integrated and user-friendly platform to support cross-lingual communication and language mastery.
 
 ![Screen-1](images/Screenshot%202024-12-07%20201838.png)
 
-![Screen-2]("images/Screenshot%2024-12-07%201852.png")
+![Screen-2](images/Screenshot%202024-12-07%20201852.png)
 
 ---
 
